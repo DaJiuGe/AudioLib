@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioLib", "AudioLib\AudioLib.csproj", "{5B83F147-86AF-4D9B-A74C-6A8B07F0DA67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B83F147-86AF-4D9B-A74C-6A8B07F0DA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B83F147-86AF-4D9B-A74C-6A8B07F0DA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B83F147-86AF-4D9B-A74C-6A8B07F0DA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B83F147-86AF-4D9B-A74C-6A8B07F0DA67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4CE5E84-1DA6-4D70-AE6B-2F33F155CF5C}
+	EndGlobalSection
+EndGlobal
